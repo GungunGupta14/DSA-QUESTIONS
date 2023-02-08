@@ -1,2 +1,2 @@
 # DSA-QUESTIONS
- All questions of patterns, algorithms.
+this rpository consists of all questions of patterns, algorithms.
